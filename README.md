@@ -30,6 +30,7 @@ This implementation generates adversarial examples to fool a CNN classifier into
 ## Usage
 1. Place dog image as `correct_image.jpg`
 2. Run `python main.py`
+3. Fooling image is generated as `fooling_image.jpg`
 
 ## Results
 | ![Correct Image - Dog](./correct_image.jpg) | ![Fooling Image - Cat](./fooling_image.jpg) |
