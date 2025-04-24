@@ -34,4 +34,4 @@ This implementation generates adversarial examples to fool a CNN classifier into
 ## Results
 | ![Correct Image - Dog](./correct_image.jpg) | ![Fooling Image - Cat](./fooling_image.jpg) |
 |------------------------|------------------------|
-| Correct Image - Dog              | Fooling Image - Cat              |
+| Correct Image - Dog              | Fooling Image - Dog              |
